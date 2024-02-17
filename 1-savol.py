@@ -1,3 +1,4 @@
+# 1-variant:1-savol
 def generate_fibonacci(n):
     fibonacci = [0, 1]
     for i in range(2, n):
